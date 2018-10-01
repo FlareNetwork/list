@@ -2,4 +2,4 @@
 
 #
 
-[FlareNetwork](https://github.com/FlareNetwork)
+[FlareCO](https://github.com/FlareCO)
