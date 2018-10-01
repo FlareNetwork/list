@@ -3,3 +3,4 @@
 #
 
 [FlareCO](https://github.com/FlareCO)
+[FlareNetwork](https://github.com/FlareNetwork)
